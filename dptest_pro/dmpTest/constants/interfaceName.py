@@ -85,6 +85,8 @@ admanageMaterialV2QueryPlan='/admanage/material/v2/query/plan'
 financeDmpV2AnalysisTotalsummary='/finance/dmp/v2/analysis/totalsummary'
 # 12.14.2播放统计分析查询
 financeAnalysisPlayList='/finance/analysis/play/list'
+# 12.16.4广告商数据明细查询
+financeAnalysisDspList='/finance/dmp/v2/analysis/dsp/list'
 
 ###########################################第13章素材文件模块接口协议###################################
 
@@ -154,6 +156,9 @@ probeZhimaRoleCreate='/probe/zhima/role/create'
 probeScreenCreate='/probe/screen/create'
 # 15.23 一键审核 (前端发起)
 sspV2ReviewPlan='/ssp/v2/review/plan'
+
+# 15.23 一键审核 (前端发起)
+dmpAnalysisDspList='/dmp/v2/analysis/dsp/list'
 
 ###########################################第16章 用户管理模块接口协议###################################
 

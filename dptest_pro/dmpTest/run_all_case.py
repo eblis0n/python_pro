@@ -12,6 +12,11 @@ import shutil
 # reload(sys)
 # sys.setdefaultencoding('utf8')
 
+
+# 设置游标类型，默认游标类型为元组形式
+# 将游标类型设置为字典形式
+# cursor = db.cursor(cursor=pymysql.cursors.DictCursor)
+
 # 这个是优化版执行所有用例并发送报告，分四个步骤
 # 预加载：执行prestrain_case 生成 所需要测试的案例组
 # 第一步加载用例

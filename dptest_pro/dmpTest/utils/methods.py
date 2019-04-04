@@ -4,6 +4,37 @@ import unittest
 from functools import wraps
 import pymysql
 import os
+import requests
+import json
+
+
+############################# 接口###########################
+def set_dp_interface (url,data):
+    """
+    :param url:接口地址，具体参考文档，如：http://192.168.1.50:8086/screenfeature/screen/update
+    :param data:传参，如：{"mediaProviderId":2093}
+    :return:res.text
+    """
+
+    headers = {'Content-Type': 'application/json;charset=utf-8', 'Connection': 'close'}
+    # headers = headers
+    url = url
+    # 虽然不知道是什么原理，如果是通过Excel读取json格式数据，就用先dumps 后再 loads一下服务器才能识别
+    datas = json.dumps(data)  # 输入的是str类型
+    datas1 = json.loads(datas) # 输出的是dict类型
+    # datas = data
+    res = requests.post(url, data = datas1, headers = headers )
+    res_date = res.json()
+    print('请求地址：'+ url)
+    print('请求参数：'+ str(datas1))
+    # 返回信息
+    print ('接口返回结果：'+ str(res.text))
+    # print('响应头：'+ str(res.headers))
+    # print (res['errorCode'])
+    # 返回响应头
+    # print (res.status_code)
+    return res_date
+
 
 
 ############################# 装饰器类的方法###########################
@@ -61,7 +92,7 @@ def conn(host,port,user,passwd,dbName):
 
 ############################# 应用类的方法###########################
 
-# #提取test头的案例，并且将其后缀名与文件名分离
+# 提取test头的案例，并且将其后缀名与文件名分离
 # 其中os.path.splitext()函数将路径拆分为文件名+扩展名
 def file_name(file_dir):
     L = []
@@ -71,3 +102,34 @@ def file_name(file_dir):
                 if os.path.splitext(file)[1] == '.py':
                     L.append(os.path.join( file)[0:-3])
     return L
+# 判断
+def comparison_1(self,inf_source,sql_source,statisDates,inf_data,sql_data):
+    """
+
+        :param self:unittest 断言需要使用
+        :param inf_source: 接口data
+        :param sql_source: 数据库data
+        :param statisDates: 接口返回的日期
+        :param inf_data: 接口需要比对的字段
+        :param sql_data: 数据库需要比对的字段
+        :return: 无
+        """
+    for i in range(len(inf_source)):
+        statisDate = inf_source[i].get(statisDates)
+        com_inf_data = inf_source[i].get(inf_data)
+        com_sql_data = sql_source[i].get(sql_data)
+        print('日期: {0}, 接口返回结果：{1} , 数据库查询结果：{2}'.format(statisDate, com_inf_data, com_sql_data))
+    self.assertEqual(str(com_inf_data), str(com_sql_data), "这个字段,数据对不上")
+
+
+
+
+# def ergodicReport():
+#     if len(aa) == len(int_aa):
+#         for i in range(0, len(aa)):
+#             if str(res_date['data'][i].get('customerId')) == str(aa[i].get('dsp_id')):
+#                 print("第一波通过"+ str(res_date['data'][i].get('customerId')),str(aa[i].get('dsp_id')))
+#                 if str(res_date['data'][i].get('playTime')) == str(aa[i].get('confirm_num')):
+#                     print("good,数据匹配"+ str(res_date['data'][i].get('playTime')), str(aa[i].get('confirm_num')))
+#                 else:
+#                     print("错了" + str(res_date['data'][i].get('playTime')), str(aa[i].get('confirm_num')))

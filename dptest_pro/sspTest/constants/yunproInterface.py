@@ -34,8 +34,8 @@ interface_58 = {
     "admanage_url" : 'http://183.6.57.177:58091',
     "auth_url" : 'http://192.168.1.58:8060',
     "cloudmedia_entry_url" : 'http://192.168.1.58:8088',
-    # "finance_url" : 'http://192.168.1.58:8094',
-    "finance_url" : 'http://183.6.57.177:58094',
+    # "finance_url" : 'http://192.168.1.58:8089',
+    "finance_url" : 'http://183.6.57.177:58089',
     "matching_url" : 'http://192.168.1.58:8082',
     "persistence_url" : 'http://192.168.1.58:8083',
     # "queryentry_url" : 'http://192.168.1.58:8093',
@@ -60,7 +60,7 @@ interface_online = {
     "finance_url" : 'http://172.18.246.205:8094',
     "matching_url" : 'http://172.18.246.205:8082',
     "persistence_url" : 'http://172.18.246.205:8083',
-    "queryentry_url" : 'http://172.18.246.205:8093',
+    "queryentry_url" : 'http://47.112.6.147:9093',
     "usermanage_url" : 'http://172.18.246.205:8092'
 }
 #########################EMD##############################################

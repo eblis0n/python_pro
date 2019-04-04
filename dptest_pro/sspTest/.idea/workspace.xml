@@ -1,173 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84e70aba-08d9-4db3-9041-933d87dc4d69" name="Default" comment="" />
+    <list default="true" id="84e70aba-08d9-4db3-9041-933d87dc4d69" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../dmpTest/case/test_dmp_analysisDspList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dmpTest/testcase/test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dmpTest/testcase/test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dptestWeb/dptestWeb/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/deploy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dmpcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dmpcase/test_dmp_analysisDspList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dmpcase/test_dmp_analysisSummary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dmpcase/test_dmp_analysisTotalsummary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prestrain_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sspCase/test_ssp_QueryentrySspStatisdaily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sspCase/test_ssp_QueryentrySspSummary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sspCase/test_ssp_financeAnalysisPlayList_ detail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sspCase/test_ssp_financeAnalysisPlayList_Diagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sspCase/test_ssp_financeAnalysisPlaySummary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sspCase/test_ssp_materialPlan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_c/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexcel/dmptest3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexcel/ssptest.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/.idea/dmpTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/.idea/dmpTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/case/test_dmp_analysisSummary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/case/test_dmp_analysisSummary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/constants/interfaceName.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/constants/interfaceName.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/constants/parameter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/constants/parameter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/constants/yunproInterface.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/constants/yunproInterface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/prestrain_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/prestrain_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/report/sspresult2019-03-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/run_all_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/run_all_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/run_all_case_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/testcase/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/testcase/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/testcase/test4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/testcase/test4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/testcase/test_dmp_analysisSummary11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/testcase/test_dmp_analysisSummary11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/utils/interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/utils/interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmpTest/utils/methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dmpTest/utils/methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sspTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sspTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sspCase/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_c/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/test_ssp_QueryentrySspStatisdaily.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/test_ssp_QueryentrySspSummary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ curveGraph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ detail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlaySummary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/test_ssp_materialPlan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commen/HTMLTestRunner_yo.py" beforeDir="false" afterPath="$PROJECT_DIR$/commen/HTMLTestRunner_yo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/yunproInterface.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants/yunproInterface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/result2019-02-26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_all_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_all_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/testexcel/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/publicus_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_c/publicus_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/screenCount.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_c/screenCount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_c/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_c/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/validScreenCount.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_c/validScreenCount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/readexcel.py" beforeDir="false" />
+    </list>
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_testscreenCount.coverage" NAME="Unittest Test_queryentry_ssp_summary.testscreenCount Coverage Results" MODIFIED="1550474985236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$screenCount.coverage" NAME="screenCount Coverage Results" MODIFIED="1550223170215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_validscreencount.coverage" NAME="Unittest test_queryentry_ssp_summary.test_validscreencount Coverage Results" MODIFIED="1550558062427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/untitled1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1550028848666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../untitled1/get_test" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_analysisPlayList_p_test_playListerrorScreenCount.coverage" NAME="Unittest test_queryentry_ssp_analysisPlayList_p.test_playListerrorScreenCount Coverage Results" MODIFIED="1551076140148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_materialPlan.coverage" NAME="Unittests in test_ssp_materialPlan Coverage Results" MODIFIED="1551058581263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_testvalidscreencount.coverage" NAME="Unittest Test_queryentry_ssp_summary.testvalidscreencount Coverage Results" MODIFIED="1550475407695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_test_validscreencount02__1_.coverage" NAME="Unittest Test_queryentry_ssp_summary.test_validscreencount02 (1) Coverage Results" MODIFIED="1550485255610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_queryentry_ssp_statisdaily.coverage" NAME="Unittests in test_queryentry_ssp_statisdaily Coverage Results" MODIFIED="1550825504871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__1_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (1) Coverage Results" MODIFIED="1550729085697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_screenCount.coverage" NAME="Unittest test_queryentry_ssp_summary.test_screenCount Coverage Results" MODIFIED="1550726132354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_materialFailCount.coverage" NAME="Unittest test_queryentry_ssp_summary.test_materialFailCount Coverage Results" MODIFIED="1550558666829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_analysisPlayList_p_test_playListerrorScreenCount__1_.coverage" NAME="Unittest test_queryentry_ssp_analysisPlayList_p.test_playListerrorScreenCount (1) Coverage Results" MODIFIED="1551074980594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_Test_queryentry_ssp_summary.coverage" NAME="Unittests in Test_queryentry_ssp_summary Coverage Results" MODIFIED="1550483067853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_in_test_ssp_financeAnalysisPlayList__curveGraph_py.coverage" NAME="Unittests in test_ssp_financeAnalysisPlayList_ curveGraph.py Coverage Results" MODIFIED="1554184097549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_financeAnalysisPlayList_Diagram_test_queryentry_ssp_analysisPlayList_Diagram.coverage" NAME="Unittests for test_ssp_financeAnalysisPlayList_Diagram.test_queryentry_ssp_analysisPlayList_Diagram Coverage Results" MODIFIED="1554185203880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/dmpTest$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1550555236847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$test_ssp_QueryentrySspSummary.coverage" NAME="test_ssp_QueryentrySspSummary Coverage Results" MODIFIED="1550557646307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$validScreenCount.coverage" NAME="validScreenCount Coverage Results" MODIFIED="1550475373258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
     <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_Test_queryentry_ssp_summary__1_.coverage" NAME="Unittests in Test_queryentry_ssp_summary (1) Coverage Results" MODIFIED="1550484035109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_planLen.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_planLen Coverage Results" MODIFIED="1550805145174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_analysisPlayListLen.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_analysisPlayListLen Coverage Results" MODIFIED="1551064347708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_materialFailCount05.coverage" NAME="Unittest test_queryentry_ssp_summary.test_materialFailCount05 Coverage Results" MODIFIED="1550540798433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_errorScreenCount.coverage" NAME="Unittest test_queryentry_ssp_summary.test_errorScreenCount Coverage Results" MODIFIED="1550551968246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__5_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (5) Coverage Results" MODIFIED="1550730736875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas Coverage Results" MODIFIED="1550735732181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_materialPlayCount04.coverage" NAME="Unittest test_queryentry_ssp_summary.test_materialPlayCount04 Coverage Results" MODIFIED="1550540182655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_ssp_testCase1.coverage" NAME="Unittests in ssp_testCase1 Coverage Results" MODIFIED="1550486359804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__2_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (2) Coverage Results" MODIFIED="1550729302255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_test_validscreencount02__2_.coverage" NAME="Unittest Test_queryentry_ssp_summary.test_validscreencount02 (2) Coverage Results" MODIFIED="1550484709081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_Test_queryentry_ssp_summary__2_.coverage" NAME="Unittests in Test_queryentry_ssp_summary (2) Coverage Results" MODIFIED="1550484150324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_dataLen.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_dataLen Coverage Results" MODIFIED="1550720614628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_playListValidScreenCount.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_playListValidScreenCount Coverage Results" MODIFIED="1551065159009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_financeAnalysisPlayList_picture.coverage" NAME="Unittests in test_ssp_financeAnalysisPlayList_picture Coverage Results" MODIFIED="1551076397375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_materialCount.coverage" NAME="Unittest test_queryentry_ssp_summary.test_materialCount Coverage Results" MODIFIED="1550558726057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$exploreSql_.coverage" NAME="exploreSql_ Coverage Results" MODIFIED="1550116880861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_testSspWeb_test_screenCount.coverage" NAME="Unittest testSspWeb.test_screenCount Coverage Results" MODIFIED="1550473228030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_validScreenCount.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_validScreenCount Coverage Results" MODIFIED="1550820361718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_Test_queryentry_ssp_summary__3_.coverage" NAME="Unittests in Test_queryentry_ssp_summary (3) Coverage Results" MODIFIED="1550484070827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_requestScreenCount.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_requestScreenCount Coverage Results" MODIFIED="1550819636567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__6_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (6) Coverage Results" MODIFIED="1550731651869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_financeAnalysisPlayList__detail.coverage" NAME="Unittests in test_ssp_financeAnalysisPlayList_ detail Coverage Results" MODIFIED="1551145814385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_analysisPlayList_p_test_playListplayTimes.coverage" NAME="Unittest test_queryentry_ssp_analysisPlayList_p.test_playListplayTimes Coverage Results" MODIFIED="1551076607098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_test_materialCount03.coverage" NAME="Unittest Test_queryentry_ssp_summary.test_materialCount03 Coverage Results" MODIFIED="1550486508074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__3_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (3) Coverage Results" MODIFIED="1550729360066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_QueryentrySspSummary.coverage" NAME="Unittests in test_ssp_QueryentrySspSummary Coverage Results" MODIFIED="1550720989386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_playDuration.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_playDuration Coverage Results" MODIFIED="1550803893463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_QueryentrySspStatisdaily.coverage" NAME="Unittests in test_ssp_QueryentrySspStatisdaily Coverage Results" MODIFIED="1550824077602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_screenCount.coverage" NAME="Unittest test_queryentry_ssp_summary.test_screenCount Coverage Results" MODIFIED="1550726132354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_in_test_ssp_financeAnalysisPlaySummary_py.coverage" NAME="Unittests in test_ssp_financeAnalysisPlaySummary.py Coverage Results" MODIFIED="1554268424692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/dmpTest$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1550219757770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/get_test" />
-    <SUITE FILE_PATH="coverage/dmpTest$exploreSql.coverage" NAME="exploreSql Coverage Results" MODIFIED="1550554977223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_QueryentrySspStatisdaily__1_.coverage" NAME="Unittests in test_ssp_QueryentrySspStatisdaily (1) Coverage Results" MODIFIED="1550803654937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_financeAnalysisPlaySummary.coverage" NAME="Unittests in test_ssp_financeAnalysisPlaySummary Coverage Results" MODIFIED="1550823249584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_requestCount.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_requestCount Coverage Results" MODIFIED="1550820835334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_queryentry_ssp_summary.coverage" NAME="Unittests in test_queryentry_ssp_summary Coverage Results" MODIFIED="1550557462999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_income.coverage" NAME="Unittest test_queryentry_ssp_summary.test_income Coverage Results" MODIFIED="1551147118855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1550727999823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_test_screenCount01.coverage" NAME="Unittest Test_queryentry_ssp_summary.test_screenCount01 Coverage Results" MODIFIED="1550480948710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_Test_queryentry_ssp_summary__4_.coverage" NAME="Unittests in Test_queryentry_ssp_summary (4) Coverage Results" MODIFIED="1550484013280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_materialPlayDuration.coverage" NAME="Unittest test_queryentry_ssp_summary.test_materialPlayDuration Coverage Results" MODIFIED="1550547423192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_test_validscreencount02.coverage" NAME="Unittest Test_queryentry_ssp_summary.test_validscreencount02 Coverage Results" MODIFIED="1550485599850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_playListplayTimes.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_playListplayTimes Coverage Results" MODIFIED="1551065574112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_dmpTest.coverage" NAME="Unittests in dmpTest Coverage Results" MODIFIED="1550501792107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_in_test_ssp_financeAnalysisPlayList_Diagram_py.coverage" NAME="Unittests in test_ssp_financeAnalysisPlayList_Diagram.py Coverage Results" MODIFIED="1554348519262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_test_validscreencount02__1_.coverage" NAME="Unittest Test_queryentry_ssp_summary.test_validscreencount02 (1) Coverage Results" MODIFIED="1550485255610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_financeAnalysisPlaySummary_test_analysis_play_summary_test_requestScreenCount.coverage" NAME="Unittests for test_ssp_financeAnalysisPlaySummary.test_analysis_play_summary.test_requestScreenCount Coverage Results" MODIFIED="1554345720924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__1_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (1) Coverage Results" MODIFIED="1550729085697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_planLen.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_planLen Coverage Results" MODIFIED="1550805145174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/dmpTest$analysis_totalsummary.coverage" NAME="analysis_totalsummary Coverage Results" MODIFIED="1550221286163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
-    <SUITE FILE_PATH="coverage/dmpTest$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1551147159060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__4_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (4) Coverage Results" MODIFIED="1550730644385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_analysis_play_summary_test_validScreenCount.coverage" NAME="Unittest test_analysis_play_summary.test_validScreenCount Coverage Results" MODIFIED="1551168050175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_QueryentrySspStatisdaily.coverage" NAME="Unittests in test_ssp_QueryentrySspStatisdaily Coverage Results" MODIFIED="1550824077602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_Test_queryentry_ssp_summary__4_.coverage" NAME="Unittests in Test_queryentry_ssp_summary (4) Coverage Results" MODIFIED="1550484013280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
     <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_analysis_play_summary_test_requestScreenCount.coverage" NAME="Unittest test_analysis_play_summary.test_requestScreenCount Coverage Results" MODIFIED="1550822394705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$screenCount.coverage" NAME="screenCount Coverage Results" MODIFIED="1550223170215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_QueryentrySspSummary_test_queryentry_ssp_summary.coverage" NAME="Unittests for test_ssp_QueryentrySspSummary.test_queryentry_ssp_summary Coverage Results" MODIFIED="1554263434703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__5_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (5) Coverage Results" MODIFIED="1550730736875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_QueryentrySspStatisdaily_test_queryentry_ssp_statisdaily_test_validScreenCount.coverage" NAME="Unittests for test_ssp_QueryentrySspStatisdaily.test_queryentry_ssp_statisdaily.test_validScreenCount Coverage Results" MODIFIED="1554110503752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_queryentry_ssp_statisdaily.coverage" NAME="Unittests in test_queryentry_ssp_statisdaily Coverage Results" MODIFIED="1550825504871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_QueryentrySspSummary_test_queryentry_ssp_summary_test_validScreenCount.coverage" NAME="Unittests for test_ssp_QueryentrySspSummary.test_queryentry_ssp_summary.test_validScreenCount Coverage Results" MODIFIED="1554345239296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_financeAnalysisPlayList_Diagram_test_queryentry_ssp_analysisPlayList_curvegraph_test_analysisPlayLen.coverage" NAME="Unittests for test_ssp_financeAnalysisPlayList_Diagram.test_queryentry_ssp_analysisPlayList_curvegraph.test_analysisPlayLen Coverage Results" MODIFIED="1554184803028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$test_ssp_QueryentrySspSummary.coverage" NAME="test_ssp_QueryentrySspSummary Coverage Results" MODIFIED="1550557646307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_financeAnalysisPlayList__detail.coverage" NAME="Unittests in test_ssp_financeAnalysisPlayList_ detail Coverage Results" MODIFIED="1551145814385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__2_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (2) Coverage Results" MODIFIED="1550729302255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_financeAnalysisPlaySummary.coverage" NAME="Unittests in test_ssp_financeAnalysisPlaySummary Coverage Results" MODIFIED="1550823249584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$prestrain_case.coverage" NAME="prestrain_case Coverage Results" MODIFIED="1554388542213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_analysisPlayList_p_test_playListerrorScreenCount__1_.coverage" NAME="Unittest test_queryentry_ssp_analysisPlayList_p.test_playListerrorScreenCount (1) Coverage Results" MODIFIED="1551074980594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_testSspWeb_test_screenCount.coverage" NAME="Unittest testSspWeb.test_screenCount Coverage Results" MODIFIED="1550473228030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_income.coverage" NAME="Unittest test_queryentry_ssp_summary.test_income Coverage Results" MODIFIED="1551147118855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_materialCount.coverage" NAME="Unittest test_queryentry_ssp_summary.test_materialCount Coverage Results" MODIFIED="1550558726057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_playListplayTimes.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_playListplayTimes Coverage Results" MODIFIED="1551065574112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_QueryentrySspSummary_test_queryentry_ssp_summary_test_screenCount.coverage" NAME="Unittests for test_ssp_QueryentrySspSummary.test_queryentry_ssp_summary.test_screenCount Coverage Results" MODIFIED="1554345118272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_dmpTest.coverage" NAME="Unittests in dmpTest Coverage Results" MODIFIED="1550501792107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_financeAnalysisPlayList_picture.coverage" NAME="Unittests in test_ssp_financeAnalysisPlayList_picture Coverage Results" MODIFIED="1551076397375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__6_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (6) Coverage Results" MODIFIED="1550731651869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$exploreSql.coverage" NAME="exploreSql Coverage Results" MODIFIED="1550554977223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_in_test_ssp_QueryentrySspStatisdaily_py.coverage" NAME="Unittests in test_ssp_QueryentrySspStatisdaily.py Coverage Results" MODIFIED="1554268394184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_financeAnalysisPlayList__detail_test_queryentry_ssp_analysisPlayList_detail.coverage" NAME="Unittests for test_ssp_financeAnalysisPlayList_ detail.test_queryentry_ssp_analysisPlayList_detail Coverage Results" MODIFIED="1554347639448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_queryentry_ssp_summary.coverage" NAME="Unittests in test_queryentry_ssp_summary Coverage Results" MODIFIED="1550557462999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_dataLen.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_dataLen Coverage Results" MODIFIED="1550720614628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_requestCount.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_requestCount Coverage Results" MODIFIED="1550820835334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_testscreenCount.coverage" NAME="Unittest Test_queryentry_ssp_summary.testscreenCount Coverage Results" MODIFIED="1550474985236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/dmpTest$exploreSql_.coverage" NAME="exploreSql_ Coverage Results" MODIFIED="1550116880861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_materialPlan.coverage" NAME="Unittests in test_ssp_materialPlan Coverage Results" MODIFIED="1551058581263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_materialPlan_test_material_plan_test_planLen.coverage" NAME="Unittests for test_ssp_materialPlan.test_material_plan.test_planLen Coverage Results" MODIFIED="1554167661488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_requestScreenCount.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_requestScreenCount Coverage Results" MODIFIED="1550819636567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_QueryentrySspStatisdaily__1_.coverage" NAME="Unittests in test_ssp_QueryentrySspStatisdaily (1) Coverage Results" MODIFIED="1550803654937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_materialPlayDuration.coverage" NAME="Unittest test_queryentry_ssp_summary.test_materialPlayDuration Coverage Results" MODIFIED="1550547423192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_analysisPlayList_p_test_playListplayTimes.coverage" NAME="Unittest test_queryentry_ssp_analysisPlayList_p.test_playListplayTimes Coverage Results" MODIFIED="1551076607098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__3_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (3) Coverage Results" MODIFIED="1550729360066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_materialPlan_test_material_plan.coverage" NAME="Unittests for test_ssp_materialPlan.test_material_plan Coverage Results" MODIFIED="1554169246061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_Test_queryentry_ssp_summary__3_.coverage" NAME="Unittests in Test_queryentry_ssp_summary (3) Coverage Results" MODIFIED="1550484070827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_in_test_ssp_QueryentrySspSummary_py.coverage" NAME="Unittests in test_ssp_QueryentrySspSummary.py Coverage Results" MODIFIED="1554348753288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_materialFailCount05.coverage" NAME="Unittest test_queryentry_ssp_summary.test_materialFailCount05 Coverage Results" MODIFIED="1550540798433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_test_validscreencount02.coverage" NAME="Unittest Test_queryentry_ssp_summary.test_validscreencount02 Coverage Results" MODIFIED="1550485599850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_in_test_ssp_financeAnalysisPlayList__detail_py.coverage" NAME="Unittests in test_ssp_financeAnalysisPlayList_ detail.py Coverage Results" MODIFIED="1554368675331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sspCase" />
+    <SUITE FILE_PATH="coverage/dmpTest$validScreenCount.coverage" NAME="validScreenCount Coverage Results" MODIFIED="1550475373258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas Coverage Results" MODIFIED="1550735732181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/untitled1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1550028848666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../untitled1/get_test" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_playDuration.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_playDuration Coverage Results" MODIFIED="1550803893463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_playListValidScreenCount.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_playListValidScreenCount Coverage Results" MODIFIED="1551065159009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_ssp_testCase1.coverage" NAME="Unittests in ssp_testCase1 Coverage Results" MODIFIED="1550486359804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_test_materialCount03.coverage" NAME="Unittest Test_queryentry_ssp_summary.test_materialCount03 Coverage Results" MODIFIED="1550486508074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/dmpTest$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1551147159060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_financeAnalysisPlayList__curveGraph_test_queryentry_ssp_analysisPlayList_curvegraph_test_analysisPlayListLen.coverage" NAME="Unittests for test_ssp_financeAnalysisPlayList_ curveGraph.test_queryentry_ssp_analysisPlayList_curvegraph.test_analysisPlayListLen Coverage Results" MODIFIED="1554184197346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_test_validscreencount02__2_.coverage" NAME="Unittest Test_queryentry_ssp_summary.test_validscreencount02 (2) Coverage Results" MODIFIED="1550484709081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_testvalidscreencount.coverage" NAME="Unittest Test_queryentry_ssp_summary.testvalidscreencount Coverage Results" MODIFIED="1550475407695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_financeAnalysisPlayList_Diagram_test_queryentry_ssp_analysisPlayList_Diagram_test_playListValidScreenCount.coverage" NAME="Unittests for test_ssp_financeAnalysisPlayList_Diagram.test_queryentry_ssp_analysisPlayList_Diagram.test_playListValidScreenCount Coverage Results" MODIFIED="1554341952966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_errorScreenCount.coverage" NAME="Unittest test_queryentry_ssp_summary.test_errorScreenCount Coverage Results" MODIFIED="1550551968246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_in_test_ssp_materialPlan_py.coverage" NAME="Unittests in test_ssp_materialPlan.py Coverage Results" MODIFIED="1554370053833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sspCase" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_validScreenCount.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_validScreenCount Coverage Results" MODIFIED="1550820361718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_Test_queryentry_ssp_summary__2_.coverage" NAME="Unittests in Test_queryentry_ssp_summary (2) Coverage Results" MODIFIED="1550484150324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/dmpTest$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1550727999823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/sspTest$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1554388585547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_Test_queryentry_ssp_summary.coverage" NAME="Unittests in Test_queryentry_ssp_summary Coverage Results" MODIFIED="1550483067853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_financeAnalysisPlayList_Diagram_test_queryentry_ssp_analysisPlayList_Diagram_test_analysisPlayLen.coverage" NAME="Unittests for test_ssp_financeAnalysisPlayList_Diagram.test_queryentry_ssp_analysisPlayList_Diagram.test_analysisPlayLen Coverage Results" MODIFIED="1554185128058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_materialPlayCount04.coverage" NAME="Unittest test_queryentry_ssp_summary.test_materialPlayCount04 Coverage Results" MODIFIED="1550540182655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_analysis_play_summary_test_validScreenCount.coverage" NAME="Unittest test_analysis_play_summary.test_validScreenCount Coverage Results" MODIFIED="1551168050175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_QueryentrySspStatisdaily_test_queryentry_ssp_statisdaily_test_playDuration.coverage" NAME="Unittests for test_ssp_QueryentrySspStatisdaily.test_queryentry_ssp_statisdaily.test_playDuration Coverage Results" MODIFIED="1554111592484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_for_test_ssp_QueryentrySspStatisdaily_test_queryentry_ssp_statisdaily_test_dataLen.coverage" NAME="Unittests for test_ssp_QueryentrySspStatisdaily.test_queryentry_ssp_statisdaily.test_dataLen Coverage Results" MODIFIED="1554084421974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittests_in_test_ssp_QueryentrySspSummary.coverage" NAME="Unittests in test_ssp_QueryentrySspSummary Coverage Results" MODIFIED="1550720989386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/sspTest$Unittests_in_test_dmp_analysisDspList_py.coverage" NAME="Unittests in test_dmp_analysisDspList.py Coverage Results" MODIFIED="1554255441123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dmpcase" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_materialFailCount.coverage" NAME="Unittest test_queryentry_ssp_summary.test_materialFailCount Coverage Results" MODIFIED="1550558666829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_summary_test_validscreencount.coverage" NAME="Unittest test_queryentry_ssp_summary.test_validscreencount Coverage Results" MODIFIED="1550558062427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_analysisPlayList_p_test_playListerrorScreenCount.coverage" NAME="Unittest test_queryentry_ssp_analysisPlayList_p.test_playListerrorScreenCount Coverage Results" MODIFIED="1551076140148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_Test_queryentry_ssp_summary_test_screenCount01.coverage" NAME="Unittest Test_queryentry_ssp_summary.test_screenCount01 Coverage Results" MODIFIED="1550480948710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_analysisPlayListLen.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_analysisPlayListLen Coverage Results" MODIFIED="1551064347708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dmpTest$Unittest_test_queryentry_ssp_statisdaily_test_statisdaily_datas__4_.coverage" NAME="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas (4) Coverage Results" MODIFIED="1550730644385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="untitled1" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="parameter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/constants/parameter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_ssp_financeAnalysisPlaySummary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/test_ssp_financeAnalysisPlaySummary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="109" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="138" selection-end-column="19" />
-              <folding>
-                <element signature="e#17#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cases/test2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="77" column="34" selection-start-line="77" selection-start-column="34" selection-end-line="77" selection-end-column="34" />
-              <folding>
-                <marker date="1550727999000" expanded="true" signature="1999:2166" ph="SELECT trans... ssp_play_summary" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cases/test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="screenCount.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cases/screenCount.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run_all_case.py" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run_all_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="25" column="57" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="57" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publicus_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cases/publicus_test.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constants/deploy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="615">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="e#18#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validScreenCount.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cases/validScreenCount.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestrain_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="165">
+              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+              <folding>
+                <element signature="e#16#25#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -180,6 +221,55 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test_materialCount</find>
+      <find>materialCount</find>
+      <find>materialPlayCount</find>
+      <find>materialFailCount</find>
+      <find>play_times</find>
+      <find>materialPlayDuration</find>
+      <find>play_duration</find>
+      <find>sql_play_duration</find>
+      <find>amount</find>
+      <find>statisDate1</find>
+      <find>sspFinanceAnalysisPlayList</find>
+      <find>test_analysisPlayListLen</find>
+      <find>test_analysisPlayListDetailLen</find>
+      <find>i = 0</find>
+      <find>test_playListplayTimes</find>
+      <find>test_analysisPlayLen</find>
+      <find>test_analysisPlayDetailLen</find>
+      <find>set_dp_interface(url=interface.get(&quot;queryentry_url&quot;) + queryentrySspStatisdaily,data = sspStatisdaily_data)</find>
+      <find>set_dp_interface(url=interface.get(&quot;queryentry_url&quot;) + sspFinanceAnalysisPlaySummary,data = analysisPlaySummary_data)</find>
+      <find>set_dp_interface(url=interface.get(&quot;admanage_url&quot;) + admanageMaterialV2QueryPlan,data = sspPlan_data)</find>
+      <find>set_dp_interface(url=queryentry_url + queryentrySspStatisdaily,data = sspStatisdaily_data)</find>
+      <find>set_dp_interface(url=interface.get(&quot;queryentry_url&quot;) + sspFinanceAnalysisPlayList,data = FinanceAnalysisPlayList_data)</find>
+      <find>set_dp_interface(url=interface.get(&quot;queryentry_url&quot;) + sspFinanceAnalysisPlayList,data = FinanceAnalysisPlayList_detail_data)</find>
+      <find>set_dp_interface(url=interface.get(&quot;queryentry_url&quot;) + sspFinanceAnalysisPlayList,data = FinanceAnalysisPlayList_data</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>test_materialPlayCount</replace>
+      <replace>materialPlayCount</replace>
+      <replace>materialFailCount</replace>
+      <replace>materialPlayDuration</replace>
+      <replace>play_duration</replace>
+      <replace>income</replace>
+      <replace>amount</replace>
+      <replace>sql_source</replace>
+      <replace>allamount</replace>
+      <replace>statisDates</replace>
+      <replace>test_analysisPlayLen</replace>
+      <replace>test_analysisPlayDetailLen</replace>
+      <replace>set_dp_interface(url=admanage_url + admanageMaterialV2QueryPlan, data=sspPlan_data)</replace>
+      <replace>set_dp_interface(url=queryentry_url + queryentrySspStatisdaily,data = sspStatisdaily_data)</replace>
+      <replace>set_dp_interface(url=queryentry_url + sspFinanceAnalysisPlayList,data = FinanceAnalysisPlayList_data)</replace>
+      <replace>set_dp_interface(url=queryentry_url + sspFinanceAnalysisPlaySummary, data=analysisPlaySummary_data)</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -204,111 +294,63 @@
         <option value="$PROJECT_DIR$/test_cases/ssp_testCase1.py" />
         <option value="$PROJECT_DIR$/commen/HTMLTestRunner_ssp.py" />
         <option value="$PROJECT_DIR$/test_cases/test1.py" />
-        <option value="$PROJECT_DIR$/utils/interface.py" />
         <option value="$PROJECT_DIR$/test_cases/test2.py" />
         <option value="$PROJECT_DIR$/utils/readexcel.py" />
         <option value="$PROJECT_DIR$/utils/exploreSql.py" />
-        <option value="$PROJECT_DIR$/utils/methods.py" />
         <option value="$PROJECT_DIR$/constants/interfaceName.py" />
-        <option value="$PROJECT_DIR$/config.ini" />
-        <option value="$PROJECT_DIR$/constants/yunproInterface.py" />
         <option value="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_picture.py" />
-        <option value="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ detail.py" />
+        <option value="$PROJECT_DIR$/constants/parameter.py" />
+        <option value="$PROJECT_DIR$/utils/interface.py" />
+        <option value="$PROJECT_DIR$/test_cases/test3.py" />
         <option value="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ curveGraph.py" />
+        <option value="$PROJECT_DIR$/dmpcase/test_dmp_analysisDspList.py" />
+        <option value="$PROJECT_DIR$/constants/yunproInterface.py" />
         <option value="$PROJECT_DIR$/case/test_ssp_materialPlan.py" />
+        <option value="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ detail.py" />
+        <option value="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_Diagram.py" />
         <option value="$PROJECT_DIR$/case/test_ssp_QueryentrySspStatisdaily.py" />
         <option value="$PROJECT_DIR$/case/test_ssp_QueryentrySspSummary.py" />
-        <option value="$PROJECT_DIR$/run_all_case.py" />
-        <option value="$PROJECT_DIR$/constants/parameter.py" />
         <option value="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlaySummary.py" />
+        <option value="$PROJECT_DIR$/utils/methods.py" />
+        <option value="$PROJECT_DIR$/run_all_case.py" />
+        <option value="$PROJECT_DIR$/sspCase/test_ssp_financeAnalysisPlayList_ detail.py" />
+        <option value="$PROJECT_DIR$/sspCase/test_ssp_materialPlan.py" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/constants/deploy.py" />
+        <option value="$PROJECT_DIR$/prestrain_case.py" />
+        <option value="$PROJECT_DIR$/sspCase/test_ssp_QueryentrySspSummary.py" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1366" />
     <option name="height" value="673" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dmpTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dmpTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sspTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dmpTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sspTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_cases" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dmpTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sspTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="case" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="sspTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sspTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sspTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sspTest" type="462c0819:PsiDirectoryNode" />
+              <item name="sspCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -316,208 +358,34 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.SQL" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\test\dianping\dmpTest" />
-      <recent name="E:\test\dianping\dmpTest\commen" />
-      <recent name="E:\test\dianping\untitled1\DMP_yibiaopang" />
-      <recent name="E:\test\dianping\untitled1\dp_constant" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dmpcase" />
       <recent name="E:\test\dianping\dmpTest\case" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testexcel" />
+      <recent name="$PROJECT_DIR$/dmpcase" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="E:\test\dianping\dmpTest" />
+      <recent name="E:\test\dianping\dmpTest\commen" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittest test_analysis_play_summary.test_validScreenCount">
-    <configuration default="false" name="Unittest test_queryentry_ssp_analysisPlayList_p.test_playListplayTimes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="sspTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\test\dianping\sspTest\case\test_ssp_financeAnalysisPlayList_ curveGraph.py" />
-      <option name="CLASS_NAME" value="test_queryentry_ssp_analysisPlayList_p" />
-      <option name="METHOD_NAME" value="test_playListplayTimes" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in test_ssp_financeAnalysisPlayList_ detail" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="sspTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ detail.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="run_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="sspTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all_case.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest test_queryentry_ssp_summary.test_income" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="sspTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/test_ssp_QueryentrySspSummary.py" />
-      <option name="CLASS_NAME" value="test_queryentry_ssp_summary" />
-      <option name="METHOD_NAME" value="test_income" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest test_analysis_play_summary.test_validScreenCount" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="sspTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/test_ssp_financeAnalysisPlaySummary.py" />
-      <option name="CLASS_NAME" value="test_analysis_play_summary" />
-      <option name="METHOD_NAME" value="test_validScreenCount" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_all_case">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -538,153 +406,137 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled1" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="false" name="Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas" type="tests" factoryName="Unittests" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
+    <configuration name="prestrain_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sspTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/test_ssp_QueryentrySspStatisdaily.py" />
-      <option name="CLASS_NAME" value="test_queryentry_ssp_statisdaily" />
-      <option name="METHOD_NAME" value="test_statisdaily_datas" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest Test_queryentry_ssp_summary.test_validscreencount02" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prestrain_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sspTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in bin" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="dmpTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="dmpTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\test\dianping\dmpTest\case\test_ssp_QueryentrySspSummary.py" />
-      <option name="CLASS_NAME" value="Test_queryentry_ssp_summary" />
-      <option name="METHOD_NAME" value="test_validscreencount02" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest Test_queryentry_ssp_summary.test_materialCount03" type="tests" factoryName="Unittests" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="dmpTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="E:\test\dianping\dmpTest\case\test_ssp_QueryentrySspSummary.py" />
       <option name="CLASS_NAME" value="Test_queryentry_ssp_summary" />
       <option name="METHOD_NAME" value="test_materialCount03" />
@@ -695,30 +547,222 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
-      <method />
+      <module name="dmpTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
-    <list size="8">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest test_queryentry_ssp_statisdaily.test_statisdaily_datas" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest Test_queryentry_ssp_summary.test_validscreencount02" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest Test_queryentry_ssp_summary.test_materialCount03" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest test_queryentry_ssp_analysisPlayList_p.test_playListplayTimes" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_ssp_financeAnalysisPlayList_ detail" />
-      <item index="5" class="java.lang.String" itemvalue="Python.run_all_case" />
-      <item index="6" class="java.lang.String" itemvalue="Python tests.Unittest test_queryentry_ssp_summary.test_income" />
-      <item index="7" class="java.lang.String" itemvalue="Python tests.Unittest test_analysis_play_summary.test_validScreenCount" />
+    <configuration name="Unittests in bin" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="dmpTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\test\dianping\dmpTest\case\test_ssp_QueryentrySspSummary.py" />
+      <option name="CLASS_NAME" value="Test_queryentry_ssp_summary" />
+      <option name="METHOD_NAME" value="test_validscreencount02" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <module name="dmpTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_c" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in bin" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="sspTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/test_ssp_QueryentrySspStatisdaily.py" />
+      <option name="CLASS_NAME" value="test_queryentry_ssp_statisdaily" />
+      <option name="METHOD_NAME" value="test_statisdaily_datas" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <module name="sspTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_ssp_QueryentrySspSummary.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="sspTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sspCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/sspCase/test_ssp_QueryentrySspSummary.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_ssp_financeAnalysisPlayList_ detail.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="sspTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sspCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/sspCase/test_ssp_financeAnalysisPlayList_ detail.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_ssp_materialPlan.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="sspTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sspCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/sspCase/test_ssp_materialPlan.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in bin" />
+      <item itemvalue="Python tests.Unittests in test_ssp_QueryentrySspSummary.py" />
+      <item itemvalue="Python.prestrain_case" />
+      <item itemvalue="Python.run_all_case" />
+      <item itemvalue="Python tests.Unittests in test_ssp_materialPlan.py" />
+      <item itemvalue="Python tests.Unittests in test_ssp_financeAnalysisPlayList_ detail.py" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest test_analysis_play_summary.test_validScreenCount" />
-        <item index="1" class="java.lang.String" itemvalue="Python.run_all_case" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest test_queryentry_ssp_summary.test_income" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_ssp_financeAnalysisPlayList_ detail" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest test_queryentry_ssp_analysisPlayList_p.test_playListplayTimes" />
+      <list>
+        <item itemvalue="Python.run_all_case" />
+        <item itemvalue="Python.prestrain_case" />
+        <item itemvalue="Python tests.Unittests in test_ssp_materialPlan.py" />
+        <item itemvalue="Python tests.Unittests in test_ssp_financeAnalysisPlayList_ detail.py" />
+        <item itemvalue="Python tests.Unittests in test_ssp_QueryentrySspSummary.py" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -730,33 +774,82 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550026524539</updated>
+      <workItem from="1552974997867" duration="571000" />
+      <workItem from="1553085723940" duration="343000" />
+      <workItem from="1553086112905" duration="240000" />
+      <workItem from="1553159752878" duration="38000" />
+      <workItem from="1553830071937" duration="39664000" />
+      <workItem from="1554184369809" duration="10881000" />
+      <workItem from="1554253637851" duration="3909000" />
+      <workItem from="1554262871579" duration="35165000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_ssp_financeAnalysisPlayList__detail_py - 2019.04.04 at 16h 37m 49s.xml">
+      <configuration name="Unittests in test_ssp_financeAnalysisPlayList_ detail.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_ssp_financeAnalysisPlayList__detail_py - 2019.04.04 at 16h 44m 53s.xml">
+      <configuration name="Unittests in test_ssp_financeAnalysisPlayList_ detail.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_ssp_financeAnalysisPlayList__detail_py - 2019.04.04 at 16h 57m 41s.xml">
+      <configuration name="Unittests in test_ssp_financeAnalysisPlayList_ detail.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_ssp_financeAnalysisPlayList__detail_py - 2019.04.04 at 16h 58m 37s.xml">
+      <configuration name="Unittests in test_ssp_financeAnalysisPlayList_ detail.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_ssp_materialPlan_py - 2019.04.04 at 17h 02m 50s.xml">
+      <configuration name="Unittests in test_ssp_materialPlan.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_ssp_materialPlan_py - 2019.04.04 at 17h 04m 04s.xml">
+      <configuration name="Unittests in test_ssp_materialPlan.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_ssp_financeAnalysisPlayList__detail_py - 2019.04.04 at 17h 04m 38s.xml">
+      <configuration name="Unittests in test_ssp_financeAnalysisPlayList_ detail.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_ssp_materialPlan_py - 2019.04.04 at 17h 23m 26s.xml">
+      <configuration name="Unittests in test_ssp_materialPlan.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_ssp_materialPlan_py - 2019.04.04 at 17h 26m 26s.xml">
+      <configuration name="Unittests in test_ssp_materialPlan.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_ssp_materialPlan_py - 2019.04.04 at 17h 27m 36s.xml">
+      <configuration name="Unittests in test_ssp_materialPlan.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90811000" />
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="673" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13396779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36129755" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31873113" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32874355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26506025" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38726333" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -766,335 +859,39 @@
       <collection />
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_c/validScreenCount.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_financeAnalysisPlaySummary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/parameter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ detail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_financeAnalysisPlaySummary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="91" column="35" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="35" />
-          <folding>
-            <element signature="e#17#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ curveGraph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="85" column="51" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/parameter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/interfaceName.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="183" column="26" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ detail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/parameter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/yunproInterface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_QueryentrySspStatisdaily.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="40" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="195" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_materialPlan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/parameter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/interfaceName.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="79" column="27" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/exploreSql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="53" column="109" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_QueryentrySspSummary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_QueryentrySspSummary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/exploreSql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="53" column="109" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/interface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/parameter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="85" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/interfaceName.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="188" column="11" selection-start-line="188" selection-start-column="11" selection-end-line="188" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/yunproInterface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Program Files (x86)/Python36/Lib/configparser.py" />
     <entry file="file://D:/Program Files (x86)/Python36/Lib/unittest/case.py" />
-    <entry file="file://$PROJECT_DIR$/commen/HTMLTestRunner_yo.py">
+    <entry file="file://$PROJECT_DIR$/test_cases/test11.py" />
+    <entry file="file://$PROJECT_DIR$/test_c/validScreenCount.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/readexcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/exploreSql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/interface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/yunproInterface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/interfaceName.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="183" column="26" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_materialPlan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="75" column="48" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_QueryentrySspStatisdaily.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="65" column="130" selection-start-line="65" selection-start-column="111" selection-end-line="65" selection-end-column="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_QueryentrySspSummary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="196" column="44" selection-start-line="196" selection-start-column="44" selection-end-line="196" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ detail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="84" column="51" selection-start-line="84" selection-start-column="39" selection-end-line="84" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constants/parameter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ curveGraph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="85" column="51" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_ssp_financeAnalysisPlaySummary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="109" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="138" selection-end-column="19" />
+        <state relative-caret-position="-198">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <element signature="e#17#32#0" expanded="true" />
+            <element signature="e#25#89#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/test11.py">
+    <entry file="file://$PROJECT_DIR$/test_c/publicus_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
+        <state relative-caret-position="49">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/test2.py">
+    <entry file="file://$PROJECT_DIR$/test_c/test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="77" column="34" selection-start-line="77" selection-start-column="34" selection-end-line="77" selection-end-column="34" />
@@ -1104,43 +901,196 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/test1.py">
+    <entry file="file://$PROJECT_DIR$/test_c/test1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="73" />
-          <folding />
+        <state>
+          <caret selection-end-line="3" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/validScreenCount.py">
+    <entry file="file://$PROJECT_DIR$/test_c/screenCount.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="615">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/publicus_test.py">
+    <entry file="file://$PROJECT_DIR$/utils/exploreSql.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="720">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/screenCount.py">
+    <entry file="file://$PROJECT_DIR$/testexcel/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/readexcel.py" />
+    <entry file="file://$PROJECT_DIR$/utils/interface.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="184">
+          <caret line="30" lean-forward="true" selection-start-line="2" selection-end-line="30" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_ssp_financeAnalysisPlayList_ curveGraph.py" />
+    <entry file="file://$PROJECT_DIR$/test_c/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="84" lean-forward="true" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmpcase/test_dmp_analysisSummary.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmpcase/test_dmp_analysisTotalsummary.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dmpcase/test_dmp_analysisDspList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-719">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#17#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_ssp_QueryentrySspSummary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1424" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commen/HTMLTestRunner_yo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8190">
+          <caret line="227" column="28" lean-forward="true" selection-start-line="227" selection-start-column="28" selection-end-line="227" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/interfaceName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="183" column="32" selection-start-line="183" selection-start-column="32" selection-end-line="183" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/yunproInterface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="62" column="48" lean-forward="true" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sspCase/test_ssp_QueryentrySspStatisdaily.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sspCase/test_ssp_financeAnalysisPlaySummary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="36" lean-forward="true" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sspCase/test_ssp_financeAnalysisPlayList_Diagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sspCase/test_ssp_financeAnalysisPlayList_ detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sspCase/test_ssp_materialPlan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/deploy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sspCase/test_ssp_QueryentrySspSummary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="204" column="4" selection-start-line="204" selection-start-column="4" selection-end-line="204" selection-end-column="4" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestrain_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/run_all_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="57" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

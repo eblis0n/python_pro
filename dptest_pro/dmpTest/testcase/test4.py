@@ -32,3 +32,7 @@ for it in dirs:
 
 
 # shutil.rmtree(path)
+
+
+
+

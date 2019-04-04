@@ -1,12 +1,7 @@
 # -*- coding: utf-8 -*-
 
-
-import pymysql
 import requests
 import json
-import os
-
-
 
 def set_dp_interface (url,data):
     """
@@ -16,18 +11,24 @@ def set_dp_interface (url,data):
     """
 
     headers = {'Content-Type': 'application/json;charset=utf-8', 'Connection': 'close'}
+    # headers = headers
     url = url
-    datas = json.dumps(data)
-    res = requests.post(url, data = datas, headers = headers )
+    # 虽然不知道是什么原理，如果是通过Excel读取json格式数据，就用先dumps 后再 loads一下服务器才能识别
+    datas = json.dumps(data)  # 输入的是str类型
+    datas1 = json.loads(datas) # 输出的是dict类型
+    # datas = data
+    res = requests.post(url, data = datas1, headers = headers )
     res_date = res.json()
     print('请求地址：'+ url)
-    print('请求参数：'+ str(data))
+    print('请求参数：'+ str(datas1))
     # 返回信息
     print ('接口返回结果：'+ str(res.text))
+    # print('响应头：'+ str(res.headers))
     # print (res['errorCode'])
     # 返回响应头
     # print (res.status_code)
     return res_date
+
 
 
 

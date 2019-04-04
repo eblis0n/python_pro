@@ -1,68 +1,17 @@
-# -*- coding: utf-8 -*-
+def test_playTimeLen(self):
+    print("开始测试test_playTimeLen")
+    # 执行接口查询
+    # self.res_date = set_dp_interface(url=interface.get("queryentry_url") + queryentrySspSummary,data = sspSummary_data)
+    print("接口返回结果:" + str(self.res_date))
+    inf_playTimeLen = self.res_date['data']
+    # 执行SQL查询
+    sql = "SELECT COUNT(DISTINCT dsp_id) AS play_time_len  FROM dsp_play_summary WHERE transaction_date BETWEEN '{0}' and '{1}';".format(
+        startDate, endDate)
+    print("数据库查询使用语句：" + sql)
+    self.pymysqlcursor.execute(sql)
+    play_time_len = self.pymysqlcursor.fetchall()
+    sql_play_time_len = play_time_len[0].get("play_time_len")
+    # 判断 接口数据与数据库查询结果
+    print('接口返回结果：{0} , 数据库查询结果：{1}'.format(len(inf_playTimeLen), len(sql_play_time_len)))
+    self.assertEquals(str(len(inf_playTimeLen)), str(len(sql_play_time_len)), "test_playTimeLen数据对不上")
 
-import os,sys
-import openpyxl
-import unittest
-import shutil
-# def file_name(file_dir):
-#     for root, dirs, files in os.walk(file_dir):
-#         print(root)  # 当前目录路径
-#         print(dirs)  # 当前路径下所有子目录
-#         print(files)  # 当前路径下所有非目录子文件
-
-
-base_dr = str(os.path.dirname(os.path.dirname(__file__)))
-bae_idr = base_dr.replace('\\', '/')
-cur_path = os.path.dirname(os.path.realpath(__file__))
-
-caseName="testcase"
-aa=os.path.join(bae_idr, caseName)
-
-print(aa)
-wbook=openpyxl.load_workbook(bae_idr + "/testexcel/dmptest3.xlsx")
-table2=wbook['Test_Case2']
-#
-
-begtest=[]
-endtest=[]
-
-
-for i in range(1,int(table2.max_column)):
-    if table2["A"+str(i)].value=="go":
-        begtest.append(i)
-
-    if table2["L"+str(i)].value=="end":
-        endtest.append(i)
-
-for j in range(1, len(begtest)):
-    for k in range(2, int(begtest[j] + 1)):
-        # print("excel:" + table2["C" + str(k)].value)
-        print(os.path.basename(sys.argv[0]))
-        if os.path.basename(sys.argv[0])[0:-3] == table2["C" + str(k)].value:
-            print(str(k))
-            vv = str(k)
-            totalsummary_address = table2["E" + str(k)].value
-            print(totalsummary_address)
-
-
-
-# def aaa():
-#     begtest=[]
-#     endtest=[]
-#     vv = []
-#
-#     for i in range(1,int(table2.max_column)):
-#         if table2["A"+str(i)].value=="go":
-#             begtest.append(i)
-#
-#         if table2["L"+str(i)].value=="end":
-#             endtest.append(i)
-#
-#     for j in range(1, len(begtest)):
-#         for k in range(2, int(begtest[j] + 1)):
-#             # print("excel:" + table2["C" + str(k)].value)
-#             if os.path.basename(sys.argv[0])[0:-3] == table2["C" + str(k)].value:
-#                 print(str(k))
-#                 vv = str(k)
-#                 # totalsummary_address = table2["E" + str(k)].value
-#     return vv

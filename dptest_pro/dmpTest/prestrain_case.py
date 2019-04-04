@@ -40,7 +40,7 @@ print("测试用例加载完成")
 ss = []
 for i in range(0,len(file_name(case_path))):
     # print("casename:" + file_name(aa)[i])
-    print("第" + str(i) + "条用例")
+    # print("第" + str(i) + "条用例")
     for j in range(1,len(begtest)):
         for k in range(2, int(begtest[i] + 1)):
             # print("excel:"+table2["C"+str(k)].value)
